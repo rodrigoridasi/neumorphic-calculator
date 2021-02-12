@@ -1,5 +1,5 @@
 <h1 align="center" >
-  <img alt="neumorphic-calculator" width="250px" src="./.github/neumorphic-calculator.png">
+  <img alt="neumorphic-calculator" width="400" src="./.github/neumorphic-calculator.png">
 </h1>
 
 <p align="center">
