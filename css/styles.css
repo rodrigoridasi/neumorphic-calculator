@@ -29,7 +29,7 @@ body p {
           justify-content: center;
   position: absolute;
   z-index: -1;
-  color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.25);
   font-size: 200px;
   font-weight: bold;
   text-transform: uppercase;
